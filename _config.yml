@@ -36,8 +36,8 @@ minima:
     - { platform: github,  user_url: "https://github.com/typenameTea" }
 
 author:
-  name: typenameTea
-  email: a@b.com
+  name: rye
+  email: blog@rye.boats
     
 # Exclude from processing.
 # The following items will not be processed, by default.
