@@ -36,6 +36,10 @@ minima:
   social_links:
     - { platform: github,  user_url: "https://github.com/typenameTea" }
 
+author:
+  name: typenameTea
+  email: a@b.com
+    
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
