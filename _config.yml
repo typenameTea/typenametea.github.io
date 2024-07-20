@@ -32,7 +32,7 @@ plugins:
   - jekyll-feed
 
 minima:
-  skin: dark
+  skin: auto
 
 minima:
   social_links:
