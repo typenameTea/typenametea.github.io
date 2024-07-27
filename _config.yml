@@ -34,10 +34,11 @@ minima:
   skin: dark
   social_links:
     - { platform: github,  user_url: "https://github.com/typenameTea" }
+    - { platform: x,  user_url: "https://x.com/qwe_ry_t" }
 
 author:
   name: ry
-  email: tbd@tbd.com
+  email: blog@ry.codes
     
 # Exclude from processing.
 # The following items will not be processed, by default.
