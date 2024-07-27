@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: rye.boats
+title: ry.codes
 
-description: >- # this means to ignore newlines until "baseurl:"
+description: >
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -36,8 +36,8 @@ minima:
     - { platform: github,  user_url: "https://github.com/typenameTea" }
 
 author:
-  name: rye
-  email: blog@rye.boats
+  name: ry
+  email: tbd@tbd.com
     
 # Exclude from processing.
 # The following items will not be processed, by default.
